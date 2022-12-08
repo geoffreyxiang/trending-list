@@ -1,0 +1,19 @@
+.tag {
+    display: inline-flex;
+    /* margin-left: 3rem; */
+    margin-right: 3rem;
+    padding: 0.75rem;
+    border-radius: 15px;
+}
+
+.recent-purchase {
+    background-color: #9191E9;
+}
+
+.time {
+    background-color: #AF9164;
+}
+
+.text {
+    font-size: 1rem;
+}
